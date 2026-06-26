@@ -42,13 +42,13 @@
     "@types/chrome": "0.0.279",
     "@types/react": "^18.3.1",
     "@types/react-dom": "^18.3.1",
-    "archiver": "^6.0.0",
+    "archiver": "^8.0.0",
     "concurrently": "^8.2.0",
-    "less": "^4.2.0",
+    "less": "^4.4.1",
     "openai": "6.3.0",
     "rsbuild-plugin-workspace-dev": "0.0.1",
     "tailwindcss": "4.1.11",
     "typescript": "^5.8.3",
-    "web-ext": "9.0.0"
+    "web-ext": "9.2.0"
   }
 }
